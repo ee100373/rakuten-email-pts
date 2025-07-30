@@ -382,7 +382,7 @@ def main(args):
     folder = "INBOX"
     user = "email@gmail.com"
     pw = "password"
-    markS = False
+    markS = True
 
     if len(args) >= 6:
         profile = args[1]
